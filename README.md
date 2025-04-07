@@ -1,1 +1,1 @@
-# whisper-transcriber-api
+echo "# Whisper Transcriber API" > README.md
